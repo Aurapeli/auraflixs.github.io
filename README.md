@@ -8,3 +8,5 @@ link.js (links de descsrgas y página)
 perfil.js (links para imágenes de foto de Perfil)
 
 auraflixs.github.io
+
+https://www.mediafire.com/file/3jf0xaeqol78m27/Xuper+TV+Premium+v4.99.7+-+androforever.com.apk/file
